@@ -66,5 +66,4 @@ fun PreviewLemonadeApp() {
     MyLemonadeTheme {
         LemonadeApp(viewModel = viewModel)
     }
-
 }
